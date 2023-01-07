@@ -6,7 +6,6 @@
         <h1 class="page-title">Plano de Aulas - Angular - Marketplace</h1>
     </header>
     <div class="page-body">
-        <blockquote id="dad9487c-e362-4aed-8595-2ec210282cd4" class="">📁 Repositório disponível em: <a href="https://github.com/DianaMartine/angular-marketplace">DianaMartine/angular-marketplace (github.com)</a>!</blockquote>
         <ul id="a953e808-b557-4943-b11a-14f171347878" class="block-color-red_background toggle">
             <li>
                 <details>
