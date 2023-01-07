@@ -676,29 +676,5 @@
         </p>
     </div>
 </article>
-
-# Desafio de projeto
-    
-- Terminar a página de about, linkando as rotas e atualizando os componentes na nossa view;
-- Subir o projeto em um repositório no GitHub.
-<br> 
-
-## Exemplo da página about
-    
-<img src="https://raw.githubusercontent.com/DianaMartine/lab-dio-angular-marketplace/main/assets/img/about-view-example.png" alt="example-about-view" />
 <p>Veja aqui o projeto funcionando: <a href="https://lab-dio-angular-marketplace-9iwbtlgi6-dianamartine.vercel.app/" target="_blank">Click here!</a>
-        
-Fiquem a vontade para usar o conhecimento aqui adquirido.
 
-Tudo certo jovem!
-
-# Sobre a autora:
-   
-   <p>
-    Programadora e desenvolvedora Front-end certificada pelo programa de capacitação TRANS.FORMA ofertado pelo Porto Digital. Estudante de Psicologia (UNISÃOMIGUEL) e Análise e Desenvolvimento de Sistemas (UNINABUCO). Musicista profissional, violonista, multi-instrumentista.
-         
-<br>
-      
-Caso esse repositório tenha te ajudado com seus estudos de alguma forma:      
-- 🤝 Fork este repositório para estudo e contribua com o conhecimento.
-- ⭐ deixe sua estrela neste repositório.
